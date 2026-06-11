@@ -12,7 +12,7 @@ new change
 new change 
 new change 
 new change 
-new change 6
+new change 
 new change 7
 new change 8
 new change 10
